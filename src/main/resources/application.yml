@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: test
+  datasource:
+    name: test
+  name: liuopei
+  age: 32
+
+
+server:
+  port: 8080
+
+
+
+
